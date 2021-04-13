@@ -39,10 +39,6 @@ namespace VariablesCS
             Console.WriteLine("The quotient of your numbers are" + quotient);
             Console.WriteLine("The remainder of your numbers are" + remainder);
 
-
-
-
-
         }
     }
 }
